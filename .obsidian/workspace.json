@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习.md",
+                "file": "机器学习/机器学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "13ce4cb9b0439b3f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器学习.md",
+                "file": "机器学习/机器学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机器学习.md",
+                "file": "机器学习/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机器学习.md"
+                "file": "机器学习/机器学习.md"
               }
             }
           }
@@ -147,11 +147,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "350402c246a86dbf",
+  "active": "2a2679c5a8803a26",
   "lastOpenFiles": [
-    "Test/未命名.md",
+    "linux/Linux操作命令.md",
+    "linux",
+    "新建文件夹",
+    "html/HTML.md",
+    "html",
+    "机器学习/DecisionTree.py",
+    "spider/spider.py",
+    "spider",
+    "spider.py",
+    "spider .py",
+    "机器学习/Pasted image 20231207171816.png",
     "机器学习.md",
-    "Test",
+    "机器学习/机器学习.md",
+    "python/python.md",
+    "DecisionTree.py",
+    "python",
+    "python.md",
+    "Linux操作命令.md",
+    "HTML.md",
+    "Test/未命名.md",
     "未命名.md",
     "2023-12-07.md",
     "机器学习/Pasted image 20231130205623.png",
@@ -162,9 +179,6 @@
     "机器学习/Pasted image 20231130194812.png",
     "机器学习/Pasted image 20231130193924.png",
     "机器学习/Pasted image 20231130193727.png",
-    "机器学习/Pasted image 20231130193634.png",
-    "机器学习/Pasted image 20231130151335.png",
-    "机器学习",
-    "87687"
+    "机器学习/Pasted image 20231130193634.png"
   ]
 }
