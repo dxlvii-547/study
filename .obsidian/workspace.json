@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "f64047a1efaf76bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ea9e7046d4717c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2679c5a8803a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "机器学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e9936e4f638e1d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "29a9a323808766a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350402c246a86dbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99cd9881f17ccd2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca76f22f952b8679",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13ce4cb9b0439b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f7109321c878bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848b8c8d65731cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "机器学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4493fe2f31e5225f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "机器学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb726eda2370bcd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f0b94d610714be5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "机器学习.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "350402c246a86dbf",
+  "lastOpenFiles": [
+    "Test/未命名.md",
+    "机器学习.md",
+    "Test",
+    "未命名.md",
+    "2023-12-07.md",
+    "机器学习/Pasted image 20231130205623.png",
+    "机器学习/Pasted image 20231130203942.png",
+    "机器学习/Pasted image 20231130200533.png",
+    "机器学习/Pasted image 20231130194900.png",
+    "机器学习/Pasted image 20231130194846.png",
+    "机器学习/Pasted image 20231130194812.png",
+    "机器学习/Pasted image 20231130193924.png",
+    "机器学习/Pasted image 20231130193727.png",
+    "机器学习/Pasted image 20231130193634.png",
+    "机器学习/Pasted image 20231130151335.png",
+    "机器学习",
+    "87687"
+  ]
+}
